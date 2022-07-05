@@ -1,3 +1,8 @@
+.index {
+    background-color: rgb(33, 237, 132); 
+    border-style: solid;
+}
+
 .radio, .checkbox {
     text-align: left;
     margin-left: 5px;
@@ -6,3 +11,10 @@
 .radio1, .checkbox1 {
     text-align: center;
 }
+
+#time {
+    float: right;
+    font-size: 20px;
+    margin-right:5px;
+    color: rgb(201, 23, 23);
+  }
